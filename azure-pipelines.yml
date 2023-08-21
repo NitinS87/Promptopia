@@ -15,7 +15,7 @@ variables:
   webAppName: 'nitin-promptopia'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'nitin-promptopia-e87jh'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
