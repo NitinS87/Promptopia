@@ -7,7 +7,7 @@ variables:
   azureSubscription: '27640820-18fb-49ef-b564-ceb0ee6cd7df'
 
   # Web app name
-  webAppName: 'nitin-promptopia'
+  webAppName: 'Promptopia-app'
 
   # Environment name
   environmentName: 'development'
